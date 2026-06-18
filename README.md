@@ -8,6 +8,7 @@
 - **[Password Generator](https://apps.apple.com/tr/app/password-generator-pixel-mode/id6742506293)** — Generate strong, secure and random passwords
 - **[Random Number Generator](https://apps.apple.com/tr/app/random-number-generator-rng/id6760746286)** — Generate random numbers with custom ranges
 - **[Chess Clock](https://apps.apple.com/tr/app/chess-clock-timer-for-chess/id6759971219)** — Chess timer app for tracking player time
+- **[Random Jokes Hub](https://apps.apple.com/us/app/random-jokes-hub/id6780819519)** — Swipe through funny jokes, save and share
 
 ### Chrome Extensions
 - **[Find & Download All Images](https://chromewebstore.google.com/detail/find-download-all-images/emdnadimomlohagcjghdcjlnckgapenl?pli=1)** — Chrome extension to find and download all images on a page
