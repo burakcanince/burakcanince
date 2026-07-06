@@ -9,6 +9,10 @@
 - **[Random Number Generator](https://apps.apple.com/tr/app/random-number-generator-rng/id6760746286)** — Generate random numbers with custom ranges
 - **[Chess Clock](https://apps.apple.com/tr/app/chess-clock-timer-for-chess/id6759971219)** — Chess timer app for tracking player time
 - **[Random Jokes Hub](https://apps.apple.com/us/app/random-jokes-hub/id6780819519)** — Swipe through funny jokes, save and share
+- **[Where to Next ?](https://apps.apple.com/tr/app/where-to-next/id6782189452)** — Spin the globe and discover a random country
+- **[Icon Finder For Expo](https://apps.apple.com/tr/app/icon-finder-for-expo/id6783856572)** — Icon finder for Expo and React Native developers
+- **[Love Me or Not: Daisy Game](https://apps.apple.com/tr/app/love-me-or-not-daisy-game/id6784789329)** — Classic daisy petal game to test if they love you or not
+
 
 ### Chrome Extensions
 - **[Find & Download All Images](https://chromewebstore.google.com/detail/find-download-all-images/emdnadimomlohagcjghdcjlnckgapenl?pli=1)** — Chrome extension to find and download all images on a page
