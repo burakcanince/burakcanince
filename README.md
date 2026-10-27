@@ -32,7 +32,7 @@
 - **[Fake User Generator](https://chromewebstore.google.com/detail/fake-user-generator/kbipkcaacmnhffgfnpfpfoglaicgddgb)** — Chrome extension to generate fake user data
 - **[Random Activity Generator](https://chromewebstore.google.com/detail/random-activity-generator/hjogoidgldojhpfgmibepjggfhnohank)** — Chrome extension to generate random activities
 - **[Chrome Extension Boilerplate](https://chromewebstore.google.com/detail/chrome-extension-boilerpl/laegiejplfiapmggopjdaedjipaphpee)** — Get default Chrome extensions boilerplate
-- **[Text to Speech Converter](https://chromewebstore.google.com/detail/text-to-speech-converter/lchoocfgkliplhjepokebdjgnlaidioo)** — Chrome extension to convert text to speech
+- **[3D Periodic Table](https://chromewebstore.google.com/detail/lchoocfgkliplhjepokebdjgnlaidioo)** — An interactive 3D periodic table on every new tab
 - **[Random Tab Tools](https://chromewebstore.google.com/detail/random-tab-tools/glkamfbamjfanobcbjipjbniopgjdaka)** — A collection of tools for your Chrome's new tab
 - **[Text Case Converter](https://chromewebstore.google.com/detail/text-case-converter/kmlekcpiceblpjpidbpihglfkdlgafna)** — Quickly convert any text between 8 popular case formats
 - **[Clipboard Manager](https://chromewebstore.google.com/detail/clipboard-manager/mfagmihebmfegdepoieihfkigkdjnohg)** — Chrome extension to manage your clipboard history
