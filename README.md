@@ -1,5 +1,5 @@
 <h1>Hi, I'm Burak ! 👋 </h1>
-<h3>I'm a front-end developer from Turkey</h3>
+<h3>I'm a software developer from Turkey</h3>
 
 ### Apps
 
@@ -15,6 +15,7 @@
 - **[LockCapsule - Time Capsule](https://apps.apple.com/tr/app/lockcapsule-time-capsule/id6787216650)** — Lock your notes and photos in time capsule
 - **[HTML Playground: Learn & Code](https://apps.apple.com/tr/app/html-playground-learn-code/id6796390136)** — Learn HTML and practice with quizzes
 - **[Allergy & Trigger Diary](https://apps.apple.com/tr/app/allergy-trigger-diary/id6809221687)** — Track allergy symptoms and triggers
+- **[Statuette: Movie Awards](https://apps.apple.com/tr/app/statuette-movie-awards/id6832052268)** — Explore every Oscar winner and nominee since 1929
 
 ### Chrome Extensions
 - **[Find & Download All Images](https://chromewebstore.google.com/detail/find-download-all-images/emdnadimomlohagcjghdcjlnckgapenl?pli=1)** — Chrome extension to find and download all images on a page
@@ -41,6 +42,14 @@
 - **[HTML Tags](https://chromewebstore.google.com/detail/html-tags/cbmmgohaogejgcenpbeegckeocbcpall)** — Chrome extension to display HTML tags in side panel
 - **[Text Reverser](https://chromewebstore.google.com/detail/text-reverser/lfdfjdallnieialdelhkhhdhkihmeeig)** — Chrome extension to reverse any text you want
 - **[Tab Renamer](https://chromewebstore.google.com/detail/tab-renamer/bebdilpnbnlgpmcpcnhfnpclfelomkdc)** — Rename your browser tabs easily
+
+### NPM Packages
+- **[pkg-weekly-stats](https://www.npmjs.com/package/pkg-weekly-stats)** — Show weekly NPM download stats and version breakdown in the terminal
+- **[github-profile-stats](https://www.npmjs.com/package/github-profile-stats)** — GitHub profile and repository stats in your terminal
+- **[rps-terminal](https://www.npmjs.com/package/rps-terminal)** — Classic Rock Paper Scissors game in your terminal with ASCII art
+- **[hacker-news-daily](https://www.npmjs.com/package/hacker-news-daily)** — Read Hacker News in your terminal
+- **[punch-duel](https://www.npmjs.com/package/punch-duel)** — Boxing game for your terminal
+- **[npm-wrapped](https://www.npmjs.com/package/npm-wrapped)** — Your npm year in review, with a shareable card
 
 ## Social Media
 <a href="https://www.youtube.com/@silentcoding" rel="nofollow"><img src="./images/youtube.png"></a>
