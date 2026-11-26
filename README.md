@@ -46,10 +46,12 @@
 ### NPM Packages
 - **[pkg-weekly-stats](https://www.npmjs.com/package/pkg-weekly-stats)** — Show weekly NPM download stats and version breakdown in the terminal
 - **[github-profile-stats](https://www.npmjs.com/package/github-profile-stats)** — GitHub profile and repository stats in your terminal
+- **[github-ranking](https://www.npmjs.com/package/github-ranking)** — Top GitHub developers by country, trending repos and top repos in your terminal
 - **[rps-terminal](https://www.npmjs.com/package/rps-terminal)** — Classic Rock Paper Scissors game in your terminal with ASCII art
 - **[hacker-news-daily](https://www.npmjs.com/package/hacker-news-daily)** — Read Hacker News in your terminal
 - **[punch-duel](https://www.npmjs.com/package/punch-duel)** — Boxing game for your terminal
 - **[npm-wrapped](https://www.npmjs.com/package/npm-wrapped)** — Your npm year in review, with a shareable card
+- **[npm-race](https://www.npmjs.com/package/npm-race)** — Race npm packages against each other in your terminal
 
 ## Social Media
 <a href="https://www.youtube.com/@silentcoding" rel="nofollow"><img src="./images/youtube.png"></a>
